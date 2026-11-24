@@ -1,0 +1,6 @@
+{
+  "name": "Little Things",
+  "description": "A beautiful, emotional digital space for the people you care about. Small things you can do, buy, say, notice, or create for Her, Him, or Us.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
